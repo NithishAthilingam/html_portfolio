@@ -1,3 +1,4 @@
 # html_portfolio
 
-simple html portfolio hosted on github
+Simple HTML portfolio
+Hosted: https://nithishathilingam.github.io/html_portfolio/
